@@ -1,0 +1,19 @@
+{
+  "description": "Nature",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYhVGXnEJkT6jspyZUrtsnejmrg9knAk7ZSK4yyzDA6W1",
+  "name": "Rainbow #1",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "20"
+    },
+    {
+      "trait_type": "health",
+      "value": "100"
+    },
+    {
+      "trait_type": "speed",
+      "value": "30"
+    }
+  ]
+}

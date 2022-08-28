@@ -1,0 +1,19 @@
+{
+  "description": "Selfy",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPZNe9Yd13kzPc475UrQk3FgchcQjeXvcN88R4P4tZ9gn",
+  "name": "Person #1",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "20"
+    },
+    {
+      "trait_type": "health",
+      "value": "100"
+    },
+    {
+      "trait_type": "speed",
+      "value": "30"
+    }
+  ]
+}
